@@ -13,7 +13,9 @@ const Quiz = () => {
   let Option1 = useRef(null);
   let Option2 = useRef(null);
   let Option3 = useRef(null);
-  let Option4 = useRef(null);
+
+  // let Option4 = useRef(null);
+  let Option5 = useRef(null);
 
   let option_array = [Option1, Option2, Option3, Option4];
 
