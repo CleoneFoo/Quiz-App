@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "Which is the cutest loopy in the world?",
+    option1: "Nai Long",
+    option2: "So Zai",
+    option3: "Tupyy",
+    option4: "Chou Yu",
+    ans: 3,
+  },
+  {
+    question: "What is bb's height?",
+    option1: "184mm",
+    option2: "180cm",
+    option3: "187m",
+    option4: "184cm",
+    ans: 4,
+  },
+  {
+    question: "What is the name of Chou Yu?",
+    option1: "Han Dun",
+    option2: "Zhang Yu",
+    option3: "Lan Jing Ling",
+    option4: "Hai Guai",
+    ans: 1,
+  },
+  {
+    question: "What is the colour of Nai Long",
+    option1: "Blue",
+    option2: "Yellow",
+    option3: "Red",
+    option4: "Transparrent",
+    ans: 2,
+  },
+  {
+    question: "Where is ShaSha come from?",
+    option1: "Sweden",
+    option2: "USA",
+    option3: "China",
+    option4: "Malaysia",
+    ans: 1,
+  },
+];
